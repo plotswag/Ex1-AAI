@@ -103,10 +103,10 @@ print(probs(df, child='WindGustSpeedCat'))
 print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGustSpeedCat'))
 ```
 ## Output:
-![alt text](<Screenshot 2025-03-25 100611.png>)
-![alt text](<Screenshot 2025-03-25 100623.png>)
+![image](https://github.com/user-attachments/assets/6ce4dba9-f36e-4a29-8829-e4d14f3b3a55)
+![image](https://github.com/user-attachments/assets/01dd2dba-fe9d-4e6b-92ce-bd8918d355f8)
  # Graph:
- ![alt text](<Screenshot 2025-03-25 100642.png>)
+![image](https://github.com/user-attachments/assets/296124fc-73f8-4039-bca3-c923c3269e1f)
 
 
 ## Result:
